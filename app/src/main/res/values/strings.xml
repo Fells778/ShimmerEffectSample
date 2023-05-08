@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShimmerEffectSample</string>
+
+    <!-- strings from main activity -->
+    <string name="image_character">imagem do personagem</string>
+    <string name="text_name_character">Nome do personagem</string>
+    <string name="text_description_character">Sobre o personagem</string>
+
+</resources>
