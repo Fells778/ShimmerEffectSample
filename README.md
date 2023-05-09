@@ -6,8 +6,16 @@
 
 
 ### Previa: 
+<div>
+  <img src="https://github.com/Fells778/ShimmerEffectSample/blob/main/Screenshot_effect.png" width="250px"/>
+  <img src="https://github.com/Fells778/ShimmerEffectSample/blob/main/Screenshot_after_effect.png" width="250px"/>
+</div>
 
 
-
-### Tecnologias utilizadas:
+### 📚Bibliotecas:
+> Glide: https://github.com/bumptech/glide
+> 
+> Shimmer effect for Android: https://facebook.github.io/shimmer-android/
+   
+### 💻Tecnologias utilizadas:
 > Kotlin, Android Studio, Shimmer Effect, Glide, MVVM
