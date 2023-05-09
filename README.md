@@ -5,7 +5,7 @@
 #### O projeto também é personalizável, permitindo que você altere a velocidade e a direção do efeito shimmer, bem como o tamanho e a forma da imagem. Ele vem com um exemplo de uso em um RecyclerView, mas pode ser facilmente adaptado para ser usado em outras partes do seu aplicativo.
 
 
-### Previa: 
+### Prévia: 
 <div>
   <img src="https://github.com/Fells778/ShimmerEffectSample/blob/main/Screenshot_effect.png" width="250px"/>
   <img src="https://github.com/Fells778/ShimmerEffectSample/blob/main/Screenshot_after_effect.png" width="250px"/>
